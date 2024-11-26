@@ -133,7 +133,7 @@ const Calculator = () => {
         </button>
         <button
           onClick={handleClear}
-          className="p-4 text-xl bg-red-200 rounded hover:bg-red-300 col-span-2"
+          className="p-4 text-xl bg-red-200 rounded hover:bg-red-300 "
         >
           C
         </button>
